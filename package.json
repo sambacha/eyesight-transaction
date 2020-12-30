@@ -1,0 +1,16 @@
+{
+  "name": "ethereum-kebab-indexer",
+  "version": "1.0.0",
+  "description": "store and retrieve transaction index",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "helmet": "^3.20.0",
+    "mongodb": "^3.3.1",
+    "web3": "^1.2.1"
+  }
+}

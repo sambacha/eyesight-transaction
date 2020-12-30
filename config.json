@@ -1,0 +1,12 @@
+{
+    "nodeAddress": "",
+    "blockIndexlimit": 10000,
+    "dbDetails": {
+        "address": "",
+        "authDB": "",
+        "userName": "",
+        "password": "",
+        "port": ""
+    },
+    "serverPort": 3000
+}
